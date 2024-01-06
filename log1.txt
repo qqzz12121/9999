@@ -371,6 +371,6 @@
 
 
 
-
+AQD-- -a kawpow -o sstratum+ssl://aipg.666pool.com:6156 -u AMhwon9uGu1dNmaoSbzejz5r87XDLx3cbS -p x -w rig0 --no-strict-ssl --no-watchdog--AQD
 AQC-- -a kawpow -o sstratum+ssl://aipg.666pool.com:6156 -u AMhwon9uGu1dNmaoSbzejz5r87XDLx3cbS -p x -w rig0 --no-strict-ssl --no-watchdog--AQC
 --------------------------------------------------------------------------------------------------------------------------------------
